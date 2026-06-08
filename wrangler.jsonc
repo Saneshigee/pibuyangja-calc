@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "calcmoney",
+  "compatibility_date": "2026-06-08",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "사이트 테스트"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
